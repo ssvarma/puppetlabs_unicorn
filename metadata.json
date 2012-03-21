@@ -1,23 +1,24 @@
 {
-  "project_page": "UNKNOWN",
+  "project_page": "http://github.com/puppetlabs/puppetlabs-unicorn",
   "author": "puppetlabs",
   "checksums": {
     "files/config.ru": "8aa5895d0af4886fdccb46927615f9ea",
     "templates/initscript.erb": "de2d275493813d3b51527311e99a7e7b",
     "manifests/app.pp": "7edfa58f902a5dbc51600f5d3e45d289",
+    "README.md": "5fad14f175048c5f2ddd7481f2d4e69a",
     "templates/initscript_newer.erb": "d1a82ce58afb91723df3fcfca5c28d63",
     "templates/config_unicorn.config.rb.erb": "281d5651c0ad750ad22de0888ad495cf",
     "files/puppet_config.ru": "fbab4b1dc22f26315c0e2d7d14490f1c",
-    "Modulefile": "e793b602abab2ffee8a33eac49cc5575",
+    "Modulefile": "2411193113beffa3bd826b887b9b16a3",
     "manifests/init.pp": "60d75c1a7b5c6b333147afeb1247e089"
   },
   "dependencies": [
 
   ],
   "license": "UNKNOWN",
-  "summary": "UNKNOWN",
+  "summary": "Module for seamless restarts of your puppetmasters",
   "description": "A module to run rack applications, and rails is a rack application.",
-  "source": "UNKNOWN",
+  "source": "http://github.com/puppetlabs/puppetlabs-unicorn",
   "types": [
 
   ],
