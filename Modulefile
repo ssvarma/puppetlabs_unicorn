@@ -1,8 +1,6 @@
 name    'puppetlabs-unicorn'
 version '0.0.1'
-source 'UNKNOWN'
 author 'puppetlabs'
-license 'UNKNOWN'
 summary 'Module for seamless restarts of your puppetmasters'
 description 'A module to run rack applications, and rails is a rack application.'
 project_page 'http://github.com/puppetlabs/puppetlabs-unicorn'
